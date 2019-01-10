@@ -66,7 +66,6 @@
 				<th><center>Qualification</center></th>
 				<th><center>Designation</center></th>
 				<th><center>About</center></th>
-				<th><center>Accounts</center></th>
 			</tr>
 			<tr>
 				<td><center>Rahul Barui</center></td>
@@ -75,8 +74,6 @@
 				<td><center>M.C.A</center></td>
 				<td><center>Developer</center></td>
 				<td><center>I Love Programming</center></td>
-				<td><center><a target="_blank" href="https://github.com/Rahul-Barui"><font color="#3300CC"> <b>Github </b></font></a> |
-				<a target="_blank" href="https://www.linkedin.com/in/rahul-barui-555651177"> <font color="#3300CC"><b> Linked-In </b></font></a> </center></td>
 			</tr>
 			<tr>
 				<td><center>Testing Raja</center></td>
@@ -85,8 +82,6 @@
 				<td><center>M.Tech</center></td>
 				<td><center>Designer</center></td>
 				<td><center>I Love Creative Design</center></td>
-				<td><center><a href="#"><font color="#3300CC"> <b>N/A </b></font></a> |
-				<a href="#"> <font color="#3300CC"><b> N/A</b></font></a> </center></td>
 			</tr>
 			<tr>
 				<td><center>Honor Data</center></td>
@@ -95,8 +90,6 @@
 				<td><center>Comp Science</center></td>
 				<td><center>Content Writer</center></td>
 				<td><center>Not Available</center></td>
-				<td><center><a href="#"><font color="#3300CC"> <b>N/A </b></font></a> |
-				<a href="#"> <font color="#3300CC"><b> N/A</b></font></a> </center></td>
 			</tr>
 		</table>
 		<br><br>
